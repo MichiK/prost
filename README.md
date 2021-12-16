@@ -4,6 +4,7 @@
 
 * Open main.json in Tiled and do stuff
 * Make sure map is set to finite and not infinite in map properties
+* Make sure all used tilesets are embedded (click "embed tileset", second button in the tileset tab)
 * Save, git commit, git push
 
 ## Docs
