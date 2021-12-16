@@ -33,8 +33,17 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":16,
          "firstgid":1,
-         "source":"tiles\/rc3-mullana-floor-wall.tsx"
+         "image":"world-tiles\/rc3-2020\/structures\/rc3-mullana-floor-wall.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"rc3-mullana-floor-wall",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",

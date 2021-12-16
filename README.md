@@ -2,16 +2,17 @@
 
 ## Development
 
-* Open prost.tmx in Tiled and do stuff.
-* Change Map from infinte to finite in map properties.
-* Save and overwrite main.json.
+* Open main.json in Tiled and do stuff
+* Make sure map is set to finite and not infinite in map properties
+* Save, git commit, git push
 
 ## Docs
 
 * https://howto.rc3.world/maps.html
+* https://workadventu.re/map-building/wa-maps.md
 
 ## Deployment
 
-Deployment happens to Github pages via an action.
+Deployment happens automatically on push to Github pages via a Github action.
 
 main.json then will be here: https://michik.github.io/prost/main.json
