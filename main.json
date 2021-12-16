@@ -8,12 +8,6 @@
          "id":2,
          "name":"start",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"desc",
-                 "type":"string",
-                 "value":"This is the start layer. Avatars entering the map spawn randomly on any populated tile in this layer. It should be at the very bottom to be invisible."
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":32,
@@ -26,12 +20,6 @@
          "id":4,
          "name":"floor",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"desc",
-                 "type":"string",
-                 "value":"This layer should contain the visible floor tiles."
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":32,
@@ -56,12 +44,6 @@
          "name":"floorLayer",
          "objects":[],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"desc",
-                 "type":"string",
-                 "value":"In this layer, avatars are rendered. Please leave empty but order accordingly so avatars render in front of\/behind objects"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
