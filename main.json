@@ -287,7 +287,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"CC0 - Mullana"
+                 "value":"Floors and walls from last year: CC0 by Mullana"
                 }],
          "spacing":0,
          "tilecount":256,
@@ -316,7 +316,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"CC0 - Mullana"
+                 "value":"Decorative objects from last year: CC0 by Mullana"
                 }],
          "spacing":0,
          "tilecount":128,
@@ -335,7 +335,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"CC0 - Mullana"
+                 "value":"Neon signs from last year: CC0 by Mullana"
                 }],
          "spacing":0,
          "tilecount":256,
@@ -354,7 +354,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"CC-BY-SA - CERT (cert.ccc.de)"
+                 "value":"Safety equipment: CC-BY-SA by CERT (cert.ccc.de)"
                 }],
          "spacing":0,
          "tilecount":1024,
@@ -373,7 +373,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"CC0 - C3BOC & Friends"
+                 "value":"Floor tiles: CC0 by C3BOC & Friends"
                 }],
          "spacing":0,
          "tilecount":64,
@@ -402,7 +402,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"CC0 - C3BOC & Friends"
+                 "value":"Ballpit: CC0 by C3BOC & Friends"
                 }],
          "spacing":0,
          "tilecount":48,
@@ -421,7 +421,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"CC0 - C3BOC & Friends"
+                 "value":"Beverage storage: CC0 by C3BOC & Friends"
                 }],
          "spacing":0,
          "tilecount":9,
