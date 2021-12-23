@@ -283,6 +283,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"RC3 2020 - Floors and Walls by Mullana",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 - Mullana"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -306,154 +312,15 @@
          "imagewidth":512,
          "margin":0,
          "name":"RC3 2020 - Objects by Mullana",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 - Mullana"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":96,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0 - Mullana"
-                        }]
-                }, 
-                {
-                 "id":97,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0 - Mullana"
-                        }]
-                }, 
-                {
-                 "id":98,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0 - Mullana"
-                        }]
-                }, 
-                {
-                 "id":99,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0 - Mullana"
-                        }]
-                }, 
-                {
-                 "id":100,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0 - Mullana"
-                        }]
-                }, 
-                {
-                 "id":101,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0 - Mullana"
-                        }]
-                }, 
-                {
-                 "id":102,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0 - Mullana"
-                        }]
-                }, 
-                {
-                 "id":103,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0 - Mullana"
-                        }]
-                }, 
-                {
-                 "id":104,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0 - Mullana"
-                        }]
-                }, 
-                {
-                 "id":105,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0 - Mullana"
-                        }]
-                }, 
-                {
-                 "id":106,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0 - Mullana"
-                        }]
-                }, 
-                {
-                 "id":107,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0 - Mullana"
-                        }]
-                }, 
-                {
-                 "id":108,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0 - Mullana"
-                        }]
-                }, 
-                {
-                 "id":109,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0 - Mullana"
-                        }]
-                }, 
-                {
-                 "id":110,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0 - Mullana"
-                        }]
-                }, 
-                {
-                 "id":111,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0 - Mullana"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
@@ -483,217 +350,15 @@
          "imagewidth":512,
          "margin":0,
          "name":"CERT Safety Equipment",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA - CERT (cert.ccc.de)"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA - CERT (cert.ccc.de)"
-                        }]
-                }, 
-                {
-                 "id":1,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA - CERT (cert.ccc.de)"
-                        }]
-                }, 
-                {
-                 "id":2,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA - CERT (cert.ccc.de)"
-                        }]
-                }, 
-                {
-                 "id":3,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA - CERT (cert.ccc.de)"
-                        }]
-                }, 
-                {
-                 "id":4,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA - CERT (cert.ccc.de)"
-                        }]
-                }, 
-                {
-                 "id":5,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA - CERT (cert.ccc.de)"
-                        }]
-                }, 
-                {
-                 "id":6,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA - CERT (cert.ccc.de)"
-                        }]
-                }, 
-                {
-                 "id":7,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA - CERT (cert.ccc.de)"
-                        }]
-                }, 
-                {
-                 "id":8,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA - CERT (cert.ccc.de)"
-                        }]
-                }, 
-                {
-                 "id":9,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA - CERT (cert.ccc.de)"
-                        }]
-                }, 
-                {
-                 "id":10,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA - CERT (cert.ccc.de)"
-                        }]
-                }, 
-                {
-                 "id":11,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA - CERT (cert.ccc.de)"
-                        }]
-                }, 
-                {
-                 "id":12,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA - CERT (cert.ccc.de)"
-                        }]
-                }, 
-                {
-                 "id":13,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA - CERT (cert.ccc.de)"
-                        }]
-                }, 
-                {
-                 "id":14,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA - CERT (cert.ccc.de)"
-                        }]
-                }, 
-                {
-                 "id":15,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA - CERT (cert.ccc.de)"
-                        }]
-                }, 
-                {
-                 "id":16,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA - CERT (cert.ccc.de)"
-                        }]
-                }, 
-                {
-                 "id":17,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA - CERT (cert.ccc.de)"
-                        }]
-                }, 
-                {
-                 "id":18,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA - CERT (cert.ccc.de)"
-                        }]
-                }, 
-                {
-                 "id":19,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA - CERT (cert.ccc.de)"
-                        }]
-                }, 
-                {
-                 "id":20,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA - CERT (cert.ccc.de)"
-                        }]
-                }, 
-                {
-                 "id":21,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA - CERT (cert.ccc.de)"
-                        }]
-                }, 
-                {
-                 "id":22,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC-BY-SA - CERT (cert.ccc.de)"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
@@ -708,7 +373,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"CC0  - C3BOC & Friends"
+                 "value":"CC0 - C3BOC & Friends"
                 }],
          "spacing":0,
          "tilecount":64,
@@ -733,6 +398,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"B\u00e4llebad",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 - C3BOC & Friends"
+                }],
          "spacing":0,
          "tilecount":48,
          "tileheight":32,
@@ -746,6 +417,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"Paletten",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 - C3BOC & Friends"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
