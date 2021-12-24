@@ -312,6 +312,11 @@
          "value":"Virtual Hall 4"
         }, 
         {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/c3boc.de\/"
+        }, 
+        {
          "name":"mapName",
          "type":"string",
          "value":"SOKO Zisch und Weg"
