@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":16,
  "infinite":false,
  "layers":[
@@ -42,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main,json#Containerausgang"
+                 "value":"main,json#containerExit"
                 }, 
                 {
                  "name":"silent",
