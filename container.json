@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":16,
  "infinite":false,
  "layers":[
@@ -42,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main,json#Containerausgang"
+                 "value":"main,json#containerExit"
                 }, 
                 {
                  "name":"silent",
@@ -97,7 +104,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"world-tiles\/rc3-2020\/structures\/rc3-mullana-floor-wall.png",
+         "image":"prost-tiles\/world\/rc3-mullana-floor-wall.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -145,7 +152,7 @@
         {
          "columns":2,
          "firstgid":321,
-         "image":"world-tiles\/rc3-2021\/worldExit.png",
+         "image":"prost-tiles\/world\/worldExit.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
