@@ -220,7 +220,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"world:\/\/lobby\/"
+                         "value":"world:\/\/lobby\/floppy-landfill.json#start_prost"
                         }, 
                         {
                          "name":"silent",
@@ -414,7 +414,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"world-tiles\/rc3-2020\/structures\/rc3-mullana-floor-wall.png",
+         "image":"prost-tiles\/world\/rc3-mullana-floor-wall.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -443,7 +443,7 @@
         {
          "columns":16,
          "firstgid":257,
-         "image":"world-tiles\/rc3-2020\/deco\/rc3-mullana-objects.png",
+         "image":"prost-tiles\/world\/rc3-mullana-objects.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
@@ -462,7 +462,7 @@
         {
          "columns":16,
          "firstgid":385,
-         "image":"world-tiles\/rc3-2020\/deco\/rc3-mullana-neon-signs.png",
+         "image":"prost-tiles\/world\/rc3-mullana-neon-signs.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -481,7 +481,7 @@
         {
          "columns":16,
          "firstgid":641,
-         "image":"world-tiles\/community\/cert\/imgs\/tilesheets\/cert_safety.png",
+         "image":"prost-tiles\/world\/cert_safety.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -567,7 +567,7 @@
         {
          "columns":2,
          "firstgid":1789,
-         "image":"world-tiles\/rc3-2021\/worldExit.png",
+         "image":"prost-tiles\/world\/worldExit.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
