@@ -962,11 +962,17 @@
         {
          "columns":9,
          "firstgid":1943,
-         "image":"..\/..\/..\/Pictures\/bottles.png",
+         "image":"prost-tiles\/bottles.png",
          "imageheight":256,
          "imagewidth":288,
          "margin":0,
          "name":"Bottles",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 by C3BOC & Friends"
+                }],
          "spacing":0,
          "tilecount":72,
          "tileheight":32,
